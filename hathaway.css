@@ -1,0 +1,43 @@
+body{
+    color: rgb(23, 23, 123);
+}
+header{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 2%;
+    border-bottom: 1px solid gray;
+}
+ul {
+    column-count: 2;
+    column-gap: 20px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 24px;
+}
+ul li{
+    margin-top: 2px;
+    margin-bottom: 35px;
+    width: 75%;
+}
+#geico{
+    border-bottom: 1px solid gray;
+    text-align: center;
+    font-size: 10px;
+    padding: 3px;
+}
+img{
+    width: 85px;
+    height: 15px;
+}
+#geicoInfo{
+    margin-top: 0;
+}
+#comments{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-size: 13px;
+    border-bottom: 1px solid gray;
+}
+footer{
+    margin-top: 20px;
+    font-size: 13px;
+}
